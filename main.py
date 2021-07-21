@@ -72,7 +72,7 @@ if __name__ == '__main__':
     previous_hash  = "0000000xa036944e29568d0cff17edbe038f81208fecf9a66be9a2b8321c6ec7"
     difficulty     = 4
     max_nonce      = 100000000
-    # max_nonce      = None
+    max_nonce      = None
 
     # TODO add Logging
     # TODO execution time
